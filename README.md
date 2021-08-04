@@ -1,8 +1,8 @@
-# Title: Tic Tac Toe
+# Title: Flashcards
 
 A [Front-End Project] by [Robert DeRouin](https://github.com/robertjosephderouin)
 
-- [Title: Tic Tac Toe](#title-tic-tac-toe)
+- [Title: Flashcards](#title-tic-tac-toe)
   - [Overview](#overview)
   - [Functionality](#functionality)
   - [Technologies](#technologies)
